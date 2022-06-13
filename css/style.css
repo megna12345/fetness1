@@ -1,0 +1,66 @@
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color:RGB(241,239,244) ;
+    padding-left: 50px;
+   
+    
+}
+h4{
+    font-size:20px;
+    
+    color: rgb(48, 48, 48);
+
+}
+h1{
+    text-shadow: -8px -8px 25px rgb(153, 150, 150);
+    color: rgb(51, 51, 51);
+    font-size:60px;
+    font-family: 'Oswald';font-size: 60px;
+
+}
+h5{
+    
+    color: rgb(51, 51, 51);
+    font-weight: 150;
+    font-family: 'Oswald';font-size: 15px;
+}
+h3{
+    color: RGB(52,50,51);
+    letter-spacing: 10px;   
+    font-family: 'Oswald';font-size: 20px;
+}
+
+
+
+.iconu ul{list-style: none;}
+
+.iconu ul li{display: inline-block;}
+
+.iconu ul li a{background-color: rgb(224, 223, 230);
+    color: rgb(70, 69, 74);
+padding: 15px 25px;
+margin: 5px 5px;
+font-size: 20px;
+display: block;
+border-radius:5px;
+box-shadow: 9px 5px 10px rgb(112, 111, 111);
+}
+
+
+.meghna{
+    margin: 10px;
+    background-color: rgb(248, 241, 241);
+    display: inline-block;
+    padding: 10px 50px;
+    border-radius: 5px;
+     box-shadow: -7px -7px 25px rgb(175, 169, 169);
+    font-size: 20px;
+}
+.meghna a{
+    text-decoration: none;
+    color: rgb(78, 69, 69);
+}
